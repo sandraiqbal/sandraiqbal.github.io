@@ -17,7 +17,7 @@ title: ""
   <li>Reviews of <em>Night of a Thousand Hells</em>; <em>The Tattoo</em> & <em>1966</em> - <a href="https://www.asymptotejournal.com/blog/2026/10/12/whats-new-in-translation-october-2026/"><em>Asymptote Journal</em></a>, October 2026</li>
 </ul>
 
-<div style="margin-top: 200px;">
+<div style="margin-top: 300px;">
   <h2>Contact</h2>
   <p>sndrqbl@gmail.com</p>
 </div>
