@@ -19,5 +19,5 @@ title: ""
 
 <div style="margin-top: 80px;">
   <h2>Contact</h2>
-  <p><a href="mailto:sndrqbl@gmail.com">sndrqbl@gmail.com</a></p>
+  <p>sndrqbl@gmail.com</p>
 </div>
