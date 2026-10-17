@@ -14,11 +14,10 @@ title: ""
 
 <p style="margin-bottom: 5px;"><em>Nonfiction</em></p>
 <ul style="margin-top: 0;">
-  <li>"Reviews of Night of a Thousand Hells; The Tattoo and Other Stories & 1966: Short Stories" - <a href="https://www.asymptotejournal.com/blog/2026/10/12/whats-new-in-translation-october-2026/"><em>Asymptote Journal</em></a>, October 2026</li>
+  <li>Reviews of <em>Night of a Thousand Hells</em>; <em>The Tattoo</em> & <em>1966</em> - <a href="https://www.asymptotejournal.com/blog/2026/10/12/whats-new-in-translation-october-2026/"><em>Asymptote Journal</em></a>, October 2026</li>
 </ul>
-<!--
+
 ## Contact
 <ul style="margin-top: -10px;">
 sndrqbl@gmail.com
 </ul>
--->
